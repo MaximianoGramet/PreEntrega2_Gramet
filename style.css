@@ -1,0 +1,29 @@
+*{
+    margin:0;
+   padding:0;
+
+}
+header{
+    background-color: #095b6d;
+}
+.hover:hover{
+    background-color: aliceblue;
+    color: black;
+}
+nav{
+    font-family: 'Audiowide',Arial;
+    color: aliceblue;
+    background-color: #095b6d;
+
+}
+:link{
+    text-decoration: none;
+    text-decoration-color: aliceblue;
+}
+a:link{
+    color: aliceblue;
+}
+.nav-link{
+    margin: 5px;
+    color: aliceblue;
+}
