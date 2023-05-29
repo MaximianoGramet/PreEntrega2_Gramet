@@ -3,18 +3,16 @@
    padding:0;
 
 }
-header{
+.color_gris{
     background-color: #095b6d;
 }
 .hover:hover{
     background-color: aliceblue;
     color: black;
 }
-nav{
+.letras_blancas{
     font-family: 'Audiowide',Arial;
     color: aliceblue;
-    background-color: #095b6d;
-
 }
 :link{
     text-decoration: none;
@@ -26,4 +24,20 @@ a:link{
 .nav-link{
     margin: 5px;
     color: aliceblue;
+}
+/* .carrusel_video{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+} */
+.index{
+    background-image:url("./src/img/background__index.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.redes_icono{
+    width: 75px;
+    height: 75px;
 }
