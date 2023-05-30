@@ -25,12 +25,6 @@ a:link{
     margin: 5px;
     color: aliceblue;
 }
-/* .carrusel_video{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    margin: 50px;
-} */
 .index{
     background-image:url("./src/img/background__index.jpg");
     background-repeat: no-repeat;
@@ -40,4 +34,28 @@ a:link{
 .redes_icono{
     width: 75px;
     height: 75px;
+    margin-top: 10px;
 }
+.descripciones{
+    font-family: 'Bebas Neue',Arial;
+    font-size:x-large;
+    place-items: center;
+    color: darkgrey;
+}
+.agnus{
+    background-color: #036D19;
+}
+.ralathor{
+    background-color: #3B7080;
+    color: #2b01017a;
+}
+.hootsman{
+    background-color: #932F6D;
+}
+.padding{
+    padding: 30px;
+}
+/* .imagen_footer{
+    width="300";
+     height="80"
+} */
