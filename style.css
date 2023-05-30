@@ -31,6 +31,13 @@ a:link{
     background-position: center;
     background-size: cover;
 }
+.music{
+    background-image:url("./src/img/background__music.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+}
 .redes_icono{
     width: 75px;
     height: 75px;
